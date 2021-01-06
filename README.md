@@ -1,6 +1,6 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
-Belly Button Diversity Website at https://loriward.github.io/Plotly-Challenge/
+Completed Belly Button Diversity Website at https://loriward.github.io/Plotly-Challenge/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
